@@ -1,4 +1,4 @@
-package com.manalangjames.freshvotes.controller;
+package com.manalangjames.freshvotes.web;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
